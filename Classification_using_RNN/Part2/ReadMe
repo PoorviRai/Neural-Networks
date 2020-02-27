@@ -1,0 +1,7 @@
+RNN/part2 contains three folders:
+
+1. figures - Contains the generated plots, model description and output screenshots by both the char and word model. Also contains the LSTM cell structure diagram.
+
+2. Output - Contains the text files of the output i.e. the generated txt by both the char and the word models.
+
+3. src - Contains the source code for both the char model and word model. The code was written and compiled on Google Colab as the training took a long time. The folder hence contains both the .ipynb and .py files. Bothe files of the char and word model contain the same code.
