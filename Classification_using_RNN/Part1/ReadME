@@ -1,0 +1,7 @@
+RNN/Part1 contains three folders:
+
+1. figures - Contains all the plots generated for the three tasks in part1 of the assignment.
+
+2. src - Contains the sorce code files namely assign.py, count.py and lstm.py. Majorority of changes have been made in all the assign.py and count.py files to generate the desired output. A single line was added to the lstm.py in order to facilitate the generation of plots.
+
+3. experiment - Contains the run.py file. This files remains unchanged.
